@@ -1,0 +1,114 @@
+!SESSION 2016-06-20 14:26:27.956 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_14
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.genuitec.eclipse.core 1 0 2016-06-20 14:27:02.157
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:08.902
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:09.013
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:09.067
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:09.109
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:09.158
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:09.210
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:09.247
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:09.279
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:09.320
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:09.350
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-06-20 14:27:09.379
+!MESSAGE Installed snippet library: D:\Program Files\MyEclipse 6.5M1\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_6.4.100.zmyeclipse64100200805\snippets\jsp\struts_tiles_snippets.xml
+
+!ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2016-06-20 14:27:19.500
+!MESSAGE Network connection problems encountered during search.
+
+!ENTRY com.genuitec.eclipse.core 1 0 2016-06-20 14:28:33.201
+!MESSAGE Subscription key decode failed.  Hash code was not correct so key is being ignored.
+
+!ENTRY com.genuitec.eclipse.core 1 0 2016-06-20 14:28:33.306
+!MESSAGE Subscription key decode failed.  Hash code was not correct so key is being ignored.
+
+!ENTRY com.genuitec.eclipse.core 1 0 2016-06-20 14:28:33.385
+!MESSAGE Subscription key decode failed.  Hash code was not correct so key is being ignored.
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.750
+!MESSAGE NLS missing message: JavaMetaUtils_warning_default_package in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.750
+!MESSAGE NLS missing message: JavaVMUtility_dialog_jdk_doesnt_exist_message in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.751
+!MESSAGE NLS missing message: JavaVMUtility_dialog_jdk_doesnt_exist_title in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.752
+!MESSAGE NLS missing message: JavaVMUtility_dialog_jdk_not_jre_message in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.752
+!MESSAGE NLS missing message: JavaVMUtility_dialog_jdk_not_jre_title in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.753
+!MESSAGE NLS missing message: JavaVMUtility_launchconfig_default_server_type_id_attr in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.753
+!MESSAGE NLS missing message: MELibraryFieldEditor_dialog_browse_jar_title in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.754
+!MESSAGE NLS missing message: MELibraryFieldEditor_dialog_invalidfile_message in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.754
+!MESSAGE NLS missing message: MELibraryFieldEditor_dialog_invalidfile_title in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.755
+!MESSAGE NLS missing message: MELibraryFieldEditor_button_add_label in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.755
+!MESSAGE NLS missing message: MELibraryFieldEditor_button_down_label in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.756
+!MESSAGE NLS missing message: MELibraryFieldEditor_button_edit_label in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.756
+!MESSAGE NLS missing message: MELibraryFieldEditor_button_remove_label in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.757
+!MESSAGE NLS missing message: MELibraryFieldEditor_button_up_label in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.757
+!MESSAGE NLS missing message: MELibraryWizardPage_description in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.758
+!MESSAGE NLS missing message: MELibraryWizardPage_error_selection_onlyone in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.758
+!MESSAGE NLS missing message: MELibraryWizardPage_error_selection_zero in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.759
+!MESSAGE NLS missing message: MELibraryWizardPage_list_library_selector_label in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.osgi 2 1 2016-06-20 14:28:57.759
+!MESSAGE NLS missing message: MELibraryWizardPage_title in: com.genuitec.eclipse.core.platformmessages
+
+!ENTRY org.eclipse.wst.internet.cache 1 0 2016-06-20 14:29:06.288
+!MESSAGE wtp.autotest.noninteractive is set. Licenses dialogs will not be displayed.
